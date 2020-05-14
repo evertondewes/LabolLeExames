@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LabolLeExames" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="caminho_labol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\labol8\</Value>
+    </Setting>
+    <Setting Name="arquivos_temporarios" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\temporarios\</Value>
+    </Setting>
+    <Setting Name="data_inicial_leitura" Type="System.String" Scope="User">
+      <Value Profile="(Default)">20100701</Value>
+    </Setting>
+    <Setting Name="TituloLinha1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Rua Coronel Jorge Frantz, 513 - Centro - Cerro Largo - RS</Value>
+    </Setting>
+    <Setting Name="TituloLinha2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Telefone: (55) 3359-1775</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
